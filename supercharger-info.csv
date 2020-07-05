@@ -1,0 +1,50 @@
+id,parking_charge,parking_position,north_america_port,europe_port,description,common_name
+seoulyeouidosupercharger,"30분 무료 (10분당 1,000원, 최대 4.5만)",지하 7층(#64기등),5,0,2만원 구매 시 1시간 무료(영수증 합산 안 됨)\n 네비상 OneIFC건물 말고 TwoIFC 건물로 진입하면 1층 -> 5층 직통 \n 나올 때 우->우->우->우...,서울 - 여의도 수퍼 차저 IFC 몰 & 콘래드 서울 호텔
+seoulgangnamsupercharger,"20분 무료 (기본 30분 4,500원 이후 10분당 1,500원)",지하 4층,5,0,호텔1층 그랜드델리 2만원 구입 시 2시간 무료\n코엑스몰 식당 할인 X\n업체가 번호 입력하는 방식\n진입시 좌측 호텔쪽 말고 우측 타워쪽으로 진입해야 편합니다.,서울 - 강남 수퍼 차저 그랜드 인터컨티넨탈 서울 파르나스
+gangnnamsupercharger,"기본 30분 4,000원 이후 10분당 2,000원",지하 4층,3,1,"20분 회차 시간 무료 \n 주차장진입시 방향틀지말고 계속 따라 
+내려가서 두 갈래 갈림길에서 왼쪽으로 틀어 
+들어가면 됨 (27번기둥) ",서울 - 압구정 수퍼 차저 안다즈 서울 강남
+seouljamsilsupercharger,10분당 200원,지하 3층,6,0,"주차요원에게 결제해야 할인, 문화시설 이외에는 주차권 미지급",서울 - 잠실 수퍼 차저 롯데월드타워
+seoulyongsansupercharger,"15분 무료 초과 시 4,000원",지하 2층,4,0,1초라도 초과 시 4천원,서울 - 용산 수퍼 차저 그랜드 하얏트
+seouljongnosupercharger,"10분 무료\n(평일 10분당 1,000원,\n 주말 1시간 1,000원,\n 12시간 5,000원)",지하 6층,4,2,"까페, 편의시설 이용 시 1시간 무료/n
+식당,청진상가 식당등 이용시 2시간 무료/n
+두장 요구 가능\n
+주말 5천원으로 하루 종일이 아니라 12시간만 무료",서울 - 종로 수퍼 차저 그랑서울
+seoulgangseosupercharger,"30분 무료 (초과 시 30분당 1,000원)",지하 1층,4,0,"GATE1 진입하면 게이트 바로 우측에 있음 (A15 기둥)\n
+1만원 이상 구매시/1시간, 3만원이상/2시간, 5만원이상/3시간, 
+10만원이상/ 6시간 무료, 일일주차 2.5만",서울 – 강서 수퍼 차저 롯데몰 김포공항점
+seoulteheransupercharger,"최초 30분 3천원 (초과 시 10분당 1,000원)",지하 4층,4,0,"업장 이용시 2시간 무료, \n
+B4 구역 (이용업장에 할인권 문의)",서울 – 테헤란 수퍼 차저 강남N타워
+seongnampangyosupercharger,20분당 1천원,지상 4층,4,0,"평일 업체 이용시 1~2시간 무료, 휴일 업체 이용 시 무료",성남 판교 수퍼 차저 디테라스
+suwonsupercharger,30분 무료 (10분당 500원),지하 2층 (L1),4,0,1만원 이상 구매시 /1시간 무료\n3만원 이상/2시간 무료\n,수원 수퍼 차저 롯데몰수원점
+goyangsupercharger,10분 무료 (10분당 500원),지하 3층,4,0,"스타벅스 이용시 1시간 무료\n호텔 라운지 (죽림, 키친) 이용시 3시간 무료",고양 수퍼 차저 엠블호텔 고양
+bundangsupercharger,1시간 무료,지하 4층 (143구역),6,0,홈플러스 이용시 2시간 무료\nCGV 이용 시 3시간 무료,성남 – 분당 수퍼 차저 CGV스퀘어
+hanamsupercharger,무료,지상 4층 (12C),6,0,,하남 수퍼 차저 스타필드 하남
+songdoincheonsupercharger,무료,D동 지하 2층,4,0,,송도 수퍼 차저 트리플스트리트
+gapyeongsupercharger,"30분 1,000원 (10분당 500원)",지상,6,0,"화장실은 닭장 옆 골목으로 진입하면
+별도건물에 있음",가평 수퍼 차저 플렉스 스튜디오
+sokchogangwondosupercharger,무료,지하 3층,3,1,,속초 수퍼 차저 롯데리조트속초
+gangneungsupercharger,무료,지하 1층,4,2,,강릉 수퍼 차저 라카이샌드파인
+wonjusupercharger,무료,지상,4,2,,원주 수퍼 차저 한솔오크밸리
+cheonansupercharger,무료,지상,4,2,,천안 수퍼 차저 대명리조트 천안
+sintanjinsupercharger,무료,지상,5,1,국도 도로가 시속이 있는 관계로 맨 끝차선 서행 주행 필요,신탄진 수퍼 차저 대덕패션타운
+nonsansupercharger,무료,지상,4,2,"커피 및 다과류 카페가 있음. (팬션도 운영중)\n
+라온가든 배추된장국 등 식사 가능.\n
+010-8393-1348 번호로 사전문의 예약 후 방문추천.\n",논산 수퍼 차저 논산 라온빌리지
+dangjinsupercharger,무료,지상,4,2,"커피란워시데이 (세차장 내에 있음/수차 독점 주차 아님)
+커피 및 다과도 판매함",당진 수퍼 차저 커피란 워시데이 당진점
+daegusupercharger,2시간 무료 (10분당 300원),신관 지하 1층,4,2,"진입 대기열이 긴 경우 주차 출입구 앞으로 주차후, 주차와 상관없이 테슬라 충전 하러 들어간다고 양해를 구하면 됨.\n심야에는 차단기 내리므로 호출 버튼으로 개방 요청 가능. (053-601-5117)",대구 수퍼 차저 엑스코
+sangjusupercharger,무료,지상,4,2,"화장실 24시간 개방
+(한우집 우측)",상주 수퍼 차저 연꽃참한우
+busansupercharger,무료,지상,4,2,야간에 호출을 하여 테슬라 슈퍼차저 충전하러 왔다고 알려야 될수 있음,부산 수퍼 차저 파라다이스호텔 부산
+busannamgusupercharger,"최초 30분 무료 (초과시 15분당 1,000원)",지하 3층,4,0,"1만원이상 구매시 1시간무료, 3만원 구매시 2시간,  5만원 구매시 3시간, 10만원 구매시 4시간무료",부산 - 남구 수퍼 차저 IFC 부산
+busangangseosupercharger,한시적 무료,지상,6,0,,부산 - 강서 수퍼 차저 쉼터
+jinjusksupercharger,무료,지하 2층,4,2,롯데마트 지하 2층 출구쪽 심야 개방요청 (055-791-2112),진주 수퍼 차저 롯데몰 진주점
+hamyangsupercharger,무료,지상,3,3,,함양 수퍼 차저 타이어프로 함양IC점
+gwangjusupercharger,무료,지하 1층,5,1,,광주 수퍼 차저 홀리데이인 광주호텔
+gunsansupercharger,무료,지상,6,2,,군산 수퍼 차저 군산 GS 칼텍스 샛별 주유소
+seogwiposupercharger,1시간 무료,지상,6,6,초과시 1시간 2천원,서귀포 수퍼 차저 롯데호텔 제주 호텔주차장
+sooncheonsupercharger,coming soon,coming soon,0,0,,Sooncheon
+uijeongbusupercharger,coming soon,coming soon,0,0,,Uijeongbu
+dongtansupercharger,coming soon,coming soon,0,0,,Dongtan
+seoulseongsusupercharger,coming soon,coming soon,0,0,,"Gangdong, Seoul"
